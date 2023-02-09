@@ -1,2 +1,2 @@
-# Formacao-Bakc-End-Oracle
-Formação: Back-End com a linguagem Java do Iniciante ao avançado, profissional.
+# Formação Back End - Java Oracle
+Formação: Back-End com a linguagem Java, Spring Framework e Mysql.
