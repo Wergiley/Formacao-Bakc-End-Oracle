@@ -1,6 +1,6 @@
 <h1>ORACLE NEXT EDUCATION (ONE) - ALURA</h1>
 
-<h2>Formações; Especialização Back-End Ministrado em 202h</h2><img src="">
+<h2>Formações; Especialização Back-End Ministrado em 202h</h2><img src="IMG_2303.png" width="200" align="right">
 Programa de ensino iniciado em 23/11/2022 até 26/05/2023
 
 <h3>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023</h3>
