@@ -54,4 +54,8 @@ Na Formação Business Agility você vai aprender como sua empresa pode se prepa
 
 Por fim, quando Agile começa a dar resultados para a empresa, precisamos formar novos Agile Coaches para a nossa organização e além disso, precisamos aprender a escalar esse ambiente de agilidade para outros projetos e áreas.
 
+<h3>Formação Empreendedorismo - 46h - T4 - ONE</h3>
+Habilidades para um mercado moderno, nem só de programação é feito o mercado de tecnologia.
+Habilidades empreendedoras, organização pessoal e trabalho em equipe também são fundamentais.
+
 <h3>Formação ONE T4: Fase Especialização Back-End</h3>
