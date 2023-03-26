@@ -1,9 +1,9 @@
 <h1>ORACLE NEXT EDUCATION (ONE) - ALURA</h1>
 
-<h2>Formações; Especialização Back-End Ministrado em 202h</h2><img src="">
+<h2>Formações; Especialização Back-End Ministrado em 251h</h2><img src="IMG_2303.png" width="200" align="right">
 Programa de ensino iniciado em 23/11/2022 até 26/05/2023
 
-<h3>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023</h3>
+<h3>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023 ✅</h3>
 O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.
 
 Conheça esta Formação!
@@ -21,7 +21,7 @@ Java é uma das linguagens de programação mais usadas no mundo, segundo o famo
 
 A formação Java da Alura é um guia de aprendizado completo para você iniciar uma carreira na programação Java. Você vai aprender desde os fundamentos da linguagem com as boas práticas até o conhecimento essencial para uma boa modelagem orientada a objetos.
 
-<h3>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023</h3>
+<h3>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023 ✅</h3>
 Aprenda como melhorar a sua produtividade e seu desenvolvimento pessoal.
 
 Produtividade no dia a dia
@@ -41,7 +41,7 @@ Quanto mais consciência você tiver sobre seus hábitos e sobre a qualidade des
 COMO APRENDER SOBRE PRODUTIVIDADE?
 Para aprender sobre produtividade é importante que você estude e pratique muito, já que é uma competência fundamental em todas as áreas profissionais. Sendo assim, é importante que você desenvolva sua capacidade de se adaptar a novas situações, de definir prioridades e como ser mais produtivo. É preciso saber também como a gestão de tempo pode melhorar a sua eficiência, a Formação da Alura vai te preparar para tudo isso.
 
-<h3>Formação Business Agility - 27h -T4 - ONE - Concluído em 04/02/2023</h3>
+<h3>Formação Business Agility - 27h -T4 - ONE - Concluído em 04/02/2023 ✅</h3>
 Prepare sua organização para a transformação ágil.
 Sua empresa sendo ágil
 Estamos vivendo em um mundo onde as empresas precisam se reinventar a cada dia. Novas formas de trabalhar são criadas, novos modelos de negócios surgem, novos desafios aparecem no dia a dia das empresas.
@@ -53,5 +53,9 @@ Por que Business Agility é importante?
 Na Formação Business Agility você vai aprender como sua empresa pode se preparar para este cenário de incertezas e mudanças constantes, entender qual é o Mindset Ágil que as empresas precisam, como estruturar times ágeis e como mensurar resultados tanto para o negócio como para a operação.
 
 Por fim, quando Agile começa a dar resultados para a empresa, precisamos formar novos Agile Coaches para a nossa organização e além disso, precisamos aprender a escalar esse ambiente de agilidade para outros projetos e áreas.
+
+<h3>Formação Empreendedorismo - 46h - T4 - ONE</h3>
+Habilidades para um mercado moderno, nem só de programação é feito o mercado de tecnologia.
+Habilidades empreendedoras, organização pessoal e trabalho em equipe também são fundamentais.
 
 <h3>Formação ONE T4: Fase Especialização Back-End</h3>
