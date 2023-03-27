@@ -1,9 +1,9 @@
 <h1>ORACLE NEXT EDUCATION (ONE) - ALURA</h1>
 
-<h2>Formações; Especialização Back-End Ministrado em 251h</h2><img src="IMG_2303.png" width="200" align="right">
+<h2>Formações; Especialização Back-End Ministrado em 251h</h2>
 Programa de ensino iniciado em 23/11/2022 até 26/05/2023
 
-<h3>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023 ✅</h3>
+<h3>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023 ✅</h3><img src="IMG_2303.png" width="200" align="right">
 O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.
 
 Conheça esta Formação!
@@ -13,7 +13,7 @@ Você vai criar suas primeiras páginas web, utilizando HTML, CSS, JS e assim ap
 
 Se você trabalha em outras áreas como marketing digital, experiência do usuário (UX), design, ou áreas correlatas, essa formação te ajudará a entender melhor como a área de tecnologia funciona e, assim, você consegue se comunicar melhor com a área de desenvolvimento.
 
-<h3>Formação Java e Orientação a Objetos - 66h - T4 - ONE</h3>
+<h3>Formação Java e Orientação a Objetos - 66h - T4 - ONE</h3><img src="IMG_2403.png" width="200" align="right">
 <p>Aprenda a usar uma das linguagens mais populares no desenvolvimento back-end, mergulhe no paradigma da orientação a objetos e domine as principais bibliotecas do mundo Java.</p>
 
 Sobre o Java<br>
