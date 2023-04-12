@@ -1,7 +1,7 @@
 <h1>Formação Back-end Oracle & Alura</h1>
 
 <h1>Formação: Especialização Back-End Ministrado em 341h pelas Intituíções Oracle & Alura</h1>
-Programa de ensino iniciado em 23/11/2022 até 26/05/2023
+Programa de ensino iniciado em 23/11/2022, período final 26/05/2023
 
 <h2>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023 ✅</h2>
 
@@ -25,7 +25,7 @@ Manter um alto nível de produtividade contribuirá na sua gestão de carreira e
 <h4>COMO APRENDER SOBRE PRODUTIVIDADE?</h4>
 <p>Para aprender sobre produtividade é importante que você estude e pratique muito, já que é uma competência fundamental em todas as áreas profissionais. Sendo assim, é importante que você desenvolva sua capacidade de se adaptar a novas situações, de definir prioridades e como ser mais produtivo. É preciso saber também como a gestão de tempo pode melhorar a sua eficiência, a Formação da Alura vai te preparar para tudo isso.</p>
 
-<h3>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023 ✅</h3><img src="IMG_2303.png" width="200" align="right">
+<h2>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023 ✅</h2><img src="IMG_2303.png" width="200" align="right">
 <p>
 O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.</p>
 
@@ -69,7 +69,7 @@ Java é uma das linguagens de programação mais usadas no mundo, segundo o famo
 A formação Java da Alura é um guia de aprendizado completo para você iniciar uma carreira na programação Java. Você vai aprender desde os fundamentos da linguagem com as boas práticas até o conhecimento essencial para uma boa modelagem orientada a objetos.</p>
 
 
-<h3>Formação Empreendedorismo - 46h - T4 - ONE</h3>
+<h2>Formação Empreendedorismo - 46h - T4 - ONE</h2>
 
 <p>
 Habilidades para um mercado moderno, nem só de programação é feito o mercado de tecnologia.</p>
