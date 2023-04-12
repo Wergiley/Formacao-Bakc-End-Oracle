@@ -69,7 +69,7 @@ Java é uma das linguagens de programação mais usadas no mundo, segundo o famo
 A formação Java da Alura é um guia de aprendizado completo para você iniciar uma carreira na programação Java. Você vai aprender desde os fundamentos da linguagem com as boas práticas até o conhecimento essencial para uma boa modelagem orientada a objetos.</p>
 
 
-<h3>Formação Empreendedorismo - 46h - T4 - ONE</h3>
+<h2>Formação Empreendedorismo - 46h - T4 - ONE</h2>
 
 <p>
 Habilidades para um mercado moderno, nem só de programação é feito o mercado de tecnologia.</p>
