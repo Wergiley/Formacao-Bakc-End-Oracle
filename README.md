@@ -25,7 +25,7 @@ Manter um alto nível de produtividade contribuirá na sua gestão de carreira e
 <h4>COMO APRENDER SOBRE PRODUTIVIDADE?</h4>
 <p>Para aprender sobre produtividade é importante que você estude e pratique muito, já que é uma competência fundamental em todas as áreas profissionais. Sendo assim, é importante que você desenvolva sua capacidade de se adaptar a novas situações, de definir prioridades e como ser mais produtivo. É preciso saber também como a gestão de tempo pode melhorar a sua eficiência, a Formação da Alura vai te preparar para tudo isso.</p>
 
-<h3>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023 ✅</h3><img src="IMG_2303.png" width="200" align="right">
+<h2>Formação Iniciante em Programação - 71h - T4 - ONE - Concluído em 20/01/2023 ✅</h2><img src="IMG_2303.png" width="200" align="right">
 <p>
 O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.</p>
 
