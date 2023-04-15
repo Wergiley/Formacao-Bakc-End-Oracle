@@ -38,7 +38,7 @@ Você vai criar suas primeiras páginas web, utilizando HTML, CSS, JS e assim ap
 
 <p>
 Se você trabalha em outras áreas como marketing digital, experiência do usuário (UX), design, ou áreas correlatas, essa formação te ajudará a entender melhor como a área de tecnologia funciona e, assim, você consegue se comunicar melhor com a área de desenvolvimento.</p>
-
+<hr>
 <h2>Formação Business Agility - 27h -T4 - ONE - Concluído em 04/02/2023 ✅</h2>
 <p>
 Prepare sua organização para a transformação ágil, sua empresa sendo ágil</p>
@@ -55,7 +55,7 @@ Na Formação Business Agility você vai aprender como sua empresa pode se prepa
 
 <p>
 Por fim, quando Agile começa a dar resultados para a empresa, precisamos formar novos Agile Coaches para a nossa organização e além disso, precisamos aprender a escalar esse ambiente de agilidade para outros projetos e áreas.</p>
-
+<hr>
 <h2>Formação Java e Orientação a Objetos - 66h - T4 - ONE - Concluído em 31/03/2023 ✅</h2><img src="IMG_2403.png" width="200" align="right">
 
 <p>
@@ -68,7 +68,7 @@ Java é uma das linguagens de programação mais usadas no mundo, segundo o famo
 <p>
 A formação Java da Alura é um guia de aprendizado completo para você iniciar uma carreira na programação Java. Você vai aprender desde os fundamentos da linguagem com as boas práticas até o conhecimento essencial para uma boa modelagem orientada a objetos.</p>
 
-
+<hr>
 <h2>Formação Empreendedorismo - 46h - T4 - ONE Concluído em 15/04/2023 ✅</h2>
 
 <p>
@@ -83,6 +83,7 @@ A Formação Java e Spring Boot é um guia de aprendizado completo para você in
 
 <p>
 Atualmente, o Spring Framework é o framework mais usado no mercado e você será introduzido ao poder do framework. O mercado é muito focado em APIs, principalmente o mercado Java, por isso veremos como criar uma API baseada nos princípios REST, com camadas de segurança, usando o Spring Boot e JWT.</p>
-
+<hr>
 <h2>Complementar Back End T4 - ONE</h2>
 <p>Formação com conteúdos complementares para seus estudos em Back End</p>
+<hr>
