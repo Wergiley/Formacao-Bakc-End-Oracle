@@ -75,21 +75,21 @@ Habilidades para um mercado moderno, nem só de programação é feito o mercado
 Habilidades empreendedoras, organização pessoal e trabalho em equipe também são fundamentais.</p>
 
 <h3>A Formação, Irá Te Fazer Intender e Compreender os Fundamentos do Empreendedorismo;</h3>
+<ul>
+<li>Identificar oportunidades: Para ser um empreendedor bem-sucedido, é necessário ter a habilidade de identificar oportunidades de negócio. Isso significa estar sempre atento às necessidades do mercado e às tendências que podem criar novas demandas.</li>
 
-<p>1.Identificar oportunidades: Para ser um empreendedor bem-sucedido, é necessário ter a habilidade de identificar oportunidades de negócio. Isso significa estar sempre atento às necessidades do mercado e às tendências que podem criar novas demandas.</p>
+<li>Planejamento: Depois de identificar uma oportunidade, é preciso fazer um planejamento cuidadoso para transformá-la em um negócio viável. Isso envolve definir o modelo de negócio, o público-alvo, a estratégia de marketing, o plano financeiro e outros aspectos importantes do empreendimento.</li>
 
-<p>2.Planejamento: Depois de identificar uma oportunidade, é preciso fazer um planejamento cuidadoso para transformá-la em um negócio viável. Isso envolve definir o modelo de negócio, o público-alvo, a estratégia de marketing, o plano financeiro e outros aspectos importantes do empreendimento.</p>
+<li>Inovação: A inovação é um elemento essencial do empreendedorismo. Os empreendedores bem-sucedidos são capazes de criar produtos e serviços inovadores que atendem às necessidades do mercado e se destacam da concorrência.</li>
 
-<p>3.Inovação: A inovação é um elemento essencial do empreendedorismo. Os empreendedores bem-sucedidos são capazes de criar produtos e serviços inovadores que atendem às necessidades do mercado e se destacam da concorrência.</p>
+<li>Persistência: O empreendedorismo pode ser um caminho difícil e desafiador, por isso, a persistência é fundamental para superar os obstáculos e continuar avançando. Os empreendedores bem-sucedidos são capazes de aprender com seus erros e manter o foco em seus objetivos.</li>
 
-<p>4.Persistência: O empreendedorismo pode ser um caminho difícil e desafiador, por isso, a persistência é fundamental para superar os obstáculos e continuar avançando. Os empreendedores bem-sucedidos são capazes de aprender com seus erros e manter o foco em seus objetivos.</p>
+<li>Liderança: Os empreendedores também precisam ser líderes eficazes para inspirar e motivar suas equipes a alcançar metas ambiciosas. Isso envolve ter habilidades de comunicação, delegação, motivação e tomada de decisão.</li>
 
-<p>5.Liderança: Os empreendedores também precisam ser líderes eficazes para inspirar e motivar suas equipes a alcançar metas ambiciosas. Isso envolve ter habilidades de comunicação, delegação, motivação e tomada de decisão.</p>
+<li>Networking: O networking é uma parte importante do empreendedorismo, já que pode ajudar a estabelecer parcerias valiosas, conseguir investimentos e expandir sua rede de contatos.</li>
 
-<p>6.Networking: O networking é uma parte importante do empreendedorismo, já que pode ajudar a estabelecer parcerias valiosas, conseguir investimentos e expandir sua rede de contatos.</p>
-
-<p>7.Gestão de riscos: Todo empreendimento envolve riscos, e os empreendedores bem-sucedidos são capazes de gerenciar esses riscos de forma eficaz. Isso significa identificar os possíveis riscos, desenvolver planos de contingência e tomar decisões calculadas para minimizar os riscos e maximizar as chances de sucesso.</p>
-
+<li>Gestão de riscos: Todo empreendimento envolve riscos, e os empreendedores bem-sucedidos são capazes de gerenciar esses riscos de forma eficaz. Isso significa identificar os possíveis riscos, desenvolver planos de contingência e tomar decisões calculadas para minimizar os riscos e maximizar as chances de sucesso.</li>
+</ul>
 
 <hr>
 <h2>Formação Java e Spring Boot - 90h - T4 - ONE</h2><img src="IMG_1104.png" align="right" width="200px">
