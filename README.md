@@ -91,7 +91,7 @@ Habilidades empreendedoras, organização pessoal e trabalho em equipe também s
 <p>7.Gestão de riscos: Todo empreendimento envolve riscos, e os empreendedores bem-sucedidos são capazes de gerenciar esses riscos de forma eficaz. Isso significa identificar os possíveis riscos, desenvolver planos de contingência e tomar decisões calculadas para minimizar os riscos e maximizar as chances de sucesso.</p>
 
 
-
+<hr>
 <h2>Formação Java e Spring Boot - 90h - T4 - ONE</h2><img src="IMG_1104.png" align="right" width="200px">
 
 <p>
