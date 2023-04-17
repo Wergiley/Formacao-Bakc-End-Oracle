@@ -99,6 +99,8 @@ A Formação Java e Spring Boot é um guia de aprendizado completo para você in
 
 <p>
 Atualmente, o Spring Framework é o framework mais usado no mercado e você será introduzido ao poder do framework. O mercado é muito focado em APIs, principalmente o mercado Java, por isso veremos como criar uma API baseada nos princípios REST, com camadas de segurança, usando o Spring Boot e JWT.</p>
+
+
 <hr>
 <h2>Complementar Back End T4 - ONE</h2>
 <p>Formação com conteúdos complementares para seus estudos em Back End</p>
