@@ -1,5 +1,3 @@
-<h1>Formação Back-end Oracle & Alura</h1>
-
 <h1>Formação: Especialização Back-End Ministrado em 341h pelas Intituíções Oracle & Alura</h1>
 Programa de ensino iniciado em 23/11/2022, período final 26/05/2023
 
