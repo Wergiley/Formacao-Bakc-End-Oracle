@@ -1,4 +1,4 @@
-<h1>Formação: Especialização Back-End Ministrado em 341h pelas Intituíções Oracle & Alura</h1>
+<h1>Formação: Formação Back-End Ministrado em 341h pelas Intituíções Oracle & Alura</h1>
 Programa de ensino iniciado em 23/11/2022, período final 26/05/2023
 
 <h2>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023 ✅</h2>
