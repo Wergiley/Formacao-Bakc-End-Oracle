@@ -112,7 +112,7 @@ Este plano foi estrategicamente criado para te guiar neste novo caminho de apren
 Nele você encontrará a ordem sugerida em que deve fazer os cursos, e o tempo proposto em que deve concluir cada módulo. Com ele, você conseguirá acompanhar o ritmo do programa ONE e aproveitar ao máximo os seus tempos de estudo e cada trilha de aprendizagem.
 
 Foi feito utilizando a ferramenta Trello, que permite gerenciar qualquer tipo de projeto e tarefas, para utilizá-lo você deve acessar o link e se cadastrar gratuitamente, e seguir as recomendações que deixamos no quadro para usar este plano de estudos.</p>
-
+<hr>
 <h4>2 - Java com o banco de dados</h4>
 <p>Se você chegou até aqui, significa que cumpriu com sucesso a formação Java. Mas esse foi apenas o primeiro passo.
 
