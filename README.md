@@ -93,6 +93,7 @@ Habilidades empreendedoras, organização pessoal e trabalho em equipe também s
 
 <hr>
 <h2>Formação Java e Spring Boot - 90h - T4 - ONE</h2><img src="IMG_1104.png" align="right" width="200px">
+<p>Crie modernas aplicações web Java com o Spring Boot. Aprenda a programar desde o acesso ao banco de dados, com MySQL e JPA, até a criação de uma API REST, tudo com o framework mais popular do mundo Java.</p>
 
 <p>
 A Formação Java e Spring Boot é um guia de aprendizado completo para você iniciar uma carreira bem sucedida na programação Web Java. O pré-requisito é a formação Java ou conhecimentos sólidos na linguagem Java e o paradigma Orientado a Objetos.</p>
