@@ -101,8 +101,36 @@ A Formação Java e Spring Boot é um guia de aprendizado completo para você in
 <p>
 Atualmente, o Spring Framework é o framework mais usado no mercado e você será introduzido ao poder do framework. O mercado é muito focado em APIs, principalmente o mercado Java, por isso veremos como criar uma API baseada nos princípios REST, com camadas de segurança, usando o Spring Boot e JWT.</p>
 
+<h4>1 - Plano de Estudo</h4>
+<p>Passo a passo
+1
+Plano de estudo
+O plano de estudos é o primeiro passo para te auxiliar na organização da sua rotina de estudos.
 
+Este plano foi estrategicamente criado para te guiar neste novo caminho de aprendizagem, para ajudar você a estudar em menos tempo e aumentar o seu rendimento, além de auxiliar no foco e disciplina.
+
+Nele você encontrará a ordem sugerida em que deve fazer os cursos, e o tempo proposto em que deve concluir cada módulo. Com ele, você conseguirá acompanhar o ritmo do programa ONE e aproveitar ao máximo os seus tempos de estudo e cada trilha de aprendizagem.
+
+Foi feito utilizando a ferramenta Trello, que permite gerenciar qualquer tipo de projeto e tarefas, para utilizá-lo você deve acessar o link e se cadastrar gratuitamente, e seguir as recomendações que deixamos no quadro para usar este plano de estudos.</p>
+
+<h4>2 - Java com o banco de dados</h4>
+<p>Se você chegou até aqui, significa que cumpriu com sucesso a formação Java. Mas esse foi apenas o primeiro passo.
+
+Para desenvolver uma aplicação mais completa e robusta, você provavelmente precisará lidar com informações de clientes e/ou produtos, que deverão ser armazenadas de forma segura. Assim, será importante aprender a trabalhar com banco de dados.
+
+Nesse módulo, você desenvolverá um maior conhecimento sobre o banco de dados relacionais MySQL, sobre a API do Java para acesso ao banco de dados - chamada de JDBC, e sobre a JPA, que facilita o desenvolvimento da conexão com o banco de dados.</P>
 <hr>
+
+<h4>3 - Fundamentos do Java na Web</h4>
+<p>Agora chegou o momento de se aprofundar nos estudos e descobrir como usar Java para criar uma aplicação na web! O Java Web permite aos usuários iniciar o software aplicativo para a Plataforma Java diretamente da Internet, usando um navegador da web.</p>
+
+<p>Você aprenderá sobre os métodos HTTP, como trabalhar com Servlet, como criar páginas dinâmicas, sobre o padrão MVC e até mesmo a fazer o deploy do seu projeto!</p>
+<hr>
+<h3>4 - API REST com Spring Boot 3</h3>
+
+O próximo passo é descobrir como trabalhar com Spring, o mais famoso framework para desenvolver aplicações Web com Java! E o Spring Boot é a ferramenta que vai te ajudar a iniciar esse processo, então, que tal estudar sobre sua mais recente versão, o Spring Boot 3?
+
+Nesse módulo, você aprenderá a desenvolver uma API Rest em Java, a desenvolver CRUDs utilizando o banco de dados MySQL e conectá-los com sua aplicação, a trabalhar com a paginação para a exibição de resultados de busca e a implementar muitas configurações importantes para tornar sua aplicação segura! Mas não se preocupe se ainda não conhecer esses termos, eles serão cuidadosamente explicados durante o curso.
 <h2>Complementar Back End T4 - ONE</h2>
 <p>Formação com conteúdos complementares para seus estudos em Back End</p>
 <hr>
