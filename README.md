@@ -126,7 +126,7 @@ Nesse módulo, você desenvolverá um maior conhecimento sobre o banco de dados 
 
 <p>Você aprenderá sobre os métodos HTTP, como trabalhar com Servlet, como criar páginas dinâmicas, sobre o padrão MVC e até mesmo a fazer o deploy do seu projeto!</p>
 <hr>
-<h3>4 - API REST com Spring Boot 3</h3>
+<h4>4 - API REST com Spring Boot 3</h4>
 
 O próximo passo é descobrir como trabalhar com Spring, o mais famoso framework para desenvolver aplicações Web com Java! E o Spring Boot é a ferramenta que vai te ajudar a iniciar esse processo, então, que tal estudar sobre sua mais recente versão, o Spring Boot 3?
 
