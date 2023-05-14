@@ -131,6 +131,37 @@ Nesse módulo, você desenvolverá um maior conhecimento sobre o banco de dados 
 O próximo passo é descobrir como trabalhar com Spring, o mais famoso framework para desenvolver aplicações Web com Java! E o Spring Boot é a ferramenta que vai te ajudar a iniciar esse processo, então, que tal estudar sobre sua mais recente versão, o Spring Boot 3?
 
 Nesse módulo, você aprenderá a desenvolver uma API Rest em Java, a desenvolver CRUDs utilizando o banco de dados MySQL e conectá-los com sua aplicação, a trabalhar com a paginação para a exibição de resultados de busca e a implementar muitas configurações importantes para tornar sua aplicação segura! Mas não se preocupe se ainda não conhecer esses termos, eles serão cuidadosamente explicados durante o curso.
-<h2>Complementar Back End - 13h - T4 - ONE</h2><img src="IMG_1405.png" align="right" width="200px">
+<h2>Formação Complementar Back End - 13h - T4 - ONE</h2><img src="IMG_1405.png" align="right" width="200px">
 <p>Formação com conteúdos complementares para seus estudos em Back End</p>
+
+<h3>Sobre essa formação</h3>
+<p>
+Tenha acesso a mais conteúdos sobre Back End para complementar seus estudos, esta formação estará em constante atualização, por isso não se surpreenda se novos conteúdos forem adicionados.
+</p>
+<p>É importante destacar que estes conteúdos são opcionais.</p>
+
+Passo a passo
+<h3>1. Java</h3>
+<ul>
+<li>O que são Enums no Java?</li>
+<li>O que são Anotações no Java?</li>
+<li>Dominando a JVM e o Java</li>
+<li>Novidades do Java 9 e para frente.</li>
+</ul>
+<h3>2. Banco de Dados</h3>
+<ul>
+<li>Curso: Java e JDBC: trabalhando com um banco de dados - 10h</li>
+<li>O que é ACID?</li>
+<li>ORM: O que é?</li>
+<li>Como instalar o MySQL no Linux</li>
+</ul>
+
+<h3>3. Spring</h3>
+<ul>
+<li>Injeção de dependências: O que é?</li>
+<li>O que é REST?</li>
+<li>O que é Json Web Token (JWT)?</li>
+<li>Testes de API com Postman.</li>
+<li>Documentando suas APIs com Swagger.</li>
+</ul>
 <hr>
