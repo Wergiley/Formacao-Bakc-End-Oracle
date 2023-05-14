@@ -131,7 +131,7 @@ Nesse módulo, você desenvolverá um maior conhecimento sobre o banco de dados 
 O próximo passo é descobrir como trabalhar com Spring, o mais famoso framework para desenvolver aplicações Web com Java! E o Spring Boot é a ferramenta que vai te ajudar a iniciar esse processo, então, que tal estudar sobre sua mais recente versão, o Spring Boot 3?
 
 Nesse módulo, você aprenderá a desenvolver uma API Rest em Java, a desenvolver CRUDs utilizando o banco de dados MySQL e conectá-los com sua aplicação, a trabalhar com a paginação para a exibição de resultados de busca e a implementar muitas configurações importantes para tornar sua aplicação segura! Mas não se preocupe se ainda não conhecer esses termos, eles serão cuidadosamente explicados durante o curso.
-<h2>Formação Complementar Back End - 13h - T4 - ONE</h2><img src="IMG_1405.png" align="right" width="200px">
+<h2>Formação Complementar Back End - 13h - T4 - ONE Concluído em 14/05/23 ✅</h2><img src="IMG_1405.png" align="right" width="200px">
 <p>Formação com conteúdos complementares para seus estudos em Back End</p>
 
 <h3>Sobre essa formação</h3>
