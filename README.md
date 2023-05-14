@@ -1,4 +1,4 @@
-<h1>Especialização: Formação Back-End Ministrado em 341h pelas Intituíções Oracle & Alura</h1>
+<h1>Especialização: Formação Back-End Ministrado em 351h pelas Intituíções Oracle & Alura</h1>
 Programa de ensino iniciado em 23/11/2022, período final 26/05/2023
 
 <h2>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023 ✅</h2>
@@ -131,6 +131,6 @@ Nesse módulo, você desenvolverá um maior conhecimento sobre o banco de dados 
 O próximo passo é descobrir como trabalhar com Spring, o mais famoso framework para desenvolver aplicações Web com Java! E o Spring Boot é a ferramenta que vai te ajudar a iniciar esse processo, então, que tal estudar sobre sua mais recente versão, o Spring Boot 3?
 
 Nesse módulo, você aprenderá a desenvolver uma API Rest em Java, a desenvolver CRUDs utilizando o banco de dados MySQL e conectá-los com sua aplicação, a trabalhar com a paginação para a exibição de resultados de busca e a implementar muitas configurações importantes para tornar sua aplicação segura! Mas não se preocupe se ainda não conhecer esses termos, eles serão cuidadosamente explicados durante o curso.
-<h2>Complementar Back End T4 - ONE</h2>
+<h2>Complementar Back End - 13h - T4 - ONE</h2><img src="IMG_1405.png" align="right" width="200px">
 <p>Formação com conteúdos complementares para seus estudos em Back End</p>
 <hr>
