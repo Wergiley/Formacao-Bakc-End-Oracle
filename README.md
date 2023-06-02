@@ -1,7 +1,7 @@
-<h1>Especialização: Formação Back-End Ministrado em 351h pelas Intituíções Oracle & Alura</h1>
-Programa de ensino iniciado em 23/11/2022, período final 13/06/2023
-- FORMADO EM: 01/06/23
-- <a href="https://cursos.alura.com.br/user/werslleyoliveira/fullCertificate/ab137fdf686a93ac548cabfc954136c7">Certificado</a>
+## Especialização: Formação Back-End Ministrado em 351h pelas Intituíções Oracle & Alura
+- Programa de ensino iniciado em 23/11/2022, período final 13/06/2023
+## FORMADO EM: 01/06/23 ✅
+## <a href="https://cursos.alura.com.br/user/werslleyoliveira/fullCertificate/ab137fdf686a93ac548cabfc954136c7">Certificado</a>✅
 
 <h2>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023 ✅</h2>
 
