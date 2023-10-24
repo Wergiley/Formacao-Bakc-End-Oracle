@@ -166,3 +166,31 @@ Passo a passo
 <li>Documentando suas APIs com Swagger.</li>
 </ul>
 <hr>
+<h2>SQL com MySQL Server da Oracle ONE T4 - 66h Concluído em 16/08/23</h2>
+<p>Aprenda a linguagem com o banco de dados de código aberto mais popular, o Oracle MySQL.</p>
+
+Agora, você irá se aprimorar na criação de relatórios significativos. Você desenvolverá tabelas com chaves primárias e estrangeiras, entenderá o commit e rollback, auto-incremento, padrões e triggers.
+
+Depois, já estará na hora de fazer o tratamento de erro corretamente e encapsular o código em funções e stored procedures.
+
+Você aprenderá a usar os comandos DML, diversas funções que irão facilitar o seu trabalho na hora de obter dados, usar padrões, e triggers.
+
+
+Concluído
+CURSO
+Comandos DML: manipulação de dados com MySQL
+
+Concluído
+CURSO
+Procedures SQL: executando código no MySQL
+3
+Administrando o MySQL Server
+Nesta última parte, você conhecerá como é o trabalho do dia a dia de um/uma profissional responsável por gerenciar, instalar, configurar, atualizar e monitorar um banco de dados: um/uma DBA (DataBase Administrator).
+
+Você conhecerá o plano de execução e suas features, os índices e joins. Aprenderá a gerenciar backups e entenderá o que é e como funciona a recuperação.
+
+
+Concluído
+CURSO
+Administração do MySQL: segurança e otimização do banco
+
