@@ -166,7 +166,7 @@ Passo a passo
 <li>Documentando suas APIs com Swagger.</li>
 </ul>
 <hr>
-<h2>SQL com MySQL Server da Oracle ONE T4 - 66h Concluído em 16/08/23</h2>
+<h2>SQL com MySQL Server da Oracle - 70h - T4 - ONE Concluído em 16/08/23</h2>
 <p>Aprenda a linguagem com o banco de dados de código aberto mais popular, o Oracle MySQL.</p>
 
 Agora, você irá se aprimorar na criação de relatórios significativos. Você desenvolverá tabelas com chaves primárias e estrangeiras, entenderá o commit e rollback, auto-incremento, padrões e triggers.
