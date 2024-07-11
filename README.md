@@ -1,5 +1,5 @@
-## Formação Técnica Desenvolvedor FullStack Oracle
-# Ministrado em 1126h pelas Intituíções Alura 
+# Formação Técnica Desenvolvedor FullStack Oracle
+## Ministrado em 1126h pelas Intituíções Alura 
 ## 1° SEMESTRE: 23/11/22 | 01/06/23 
 ## 2° SEMESTRE: 01/06/23 | 02/12/23 
 ## 3° SEMESTRE: 18/01/24 | 01/07/24
