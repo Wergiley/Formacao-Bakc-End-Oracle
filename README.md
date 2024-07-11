@@ -1,6 +1,13 @@
-## Especialização Back-End Ministrado em 562h pelas Intituíções Oracle & Alura
-- Programa de ensino iniciado em 23/11/2022, período final 13/06/2023
-## FORMADO EM: 01/06/23 <a href="https://cursos.alura.com.br/user/werslleyoliveira/fullCertificate/ab137fdf686a93ac548cabfc954136c7">Certificado</a>✅
+## Formação Técnica Desenvolvedor FullStack Oracle
+# Ministrado em 1126h pelas Intituíções Alura 
+## 1° SEMESTRE: 23/11/22 | 01/06/23 
+## 2° SEMESTRE: 01/06/23 | 02/12/23 
+## 3° SEMESTRE: 18/01/24 | 01/07/24
+## 4° SEMESTRE: 01/07/24 | 27/11/24
+## FORMATURA: 29/11/24
+<a 
+  href="https://cursos.alura.com.br/user/werslleyoliveira/fullCertificate/ab137fdf686a93ac548cabfc954136c7">Certificado
+</a>✅
 
 <h2>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023 ✅</h2>
 
