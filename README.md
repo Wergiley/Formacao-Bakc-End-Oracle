@@ -1,10 +1,15 @@
-# Formação Técnica Desenvolvedor FullStack Oracle
-## Ministrado em 1126h pelas Intituíções Alura 
+# Formação Técnica Desenvolvedor FullStack Java - Oracle
+## Instituto: Oracle University & Instituto Alura.
+## Carga Horária: 1126H
+## Curso: Desenvolvedor Back-End Java
 ## 1° SEMESTRE: 23/11/22 | 01/06/23 
 ## 2° SEMESTRE: 01/06/23 | 02/12/23 
-## 3° SEMESTRE: 18/01/24 | 01/07/24
-## 4° SEMESTRE: 01/07/24 | 27/11/24
 ## FORMATURA: 29/11/24
+
+## Curso: Desenvolvedor Front-End React
+## 3° SEMESTRE: 18/01/24 | 01/07/24
+## 4° SEMESTRE: 01/07/24 | 27/09/24
+## FORMATURA: 14/10/24
 <a 
   href="https://cursos.alura.com.br/user/werslleyoliveira/fullCertificate/ab137fdf686a93ac548cabfc954136c7">Certificado
 </a>✅
@@ -196,8 +201,35 @@ Nesta última parte, você conhecerá como é o trabalho do dia a dia de um/uma 
 
 Você conhecerá o plano de execução e suas features, os índices e joins. Aprenderá a gerenciar backups e entenderá o que é e como funciona a recuperação.
 
-
 Concluído
 CURSO
 Administração do MySQL: segurança e otimização do banco
 
+
+1° Semestre:
+
+Formação
+Desenvolvimento Pessoal T6 - ONE
+
+Formação
+Iniciante em Programação T6 - ONE
+
+Formação
+Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE
+
+Formação
+Front End T6 - ONE
+
+Formação
+React T6 - ONE
+
+2° Semestre:
+
+Formação
+SQL com MySQL Server da Oracle - ONE
+
+Formação
+Oracle Cloud Infrastructure - ONE
+
+Formação
+IA Generativa - ONE
