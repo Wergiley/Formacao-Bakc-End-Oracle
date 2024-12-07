@@ -16,7 +16,7 @@
 
 <h2>Formação Desenvolvimento Pessoal - 38h - T4 - ONE - Concluído em 19/01/2023 ✅</h2>
 
-<h4>Aprenda como melhorar a sua produtividade e seu desenvolvimento pessoal.</h4>
+<h4>Aprenda como melhorar a sua produtividade e seu desenvolvimento pessoal</h4>
 
 <p>
 Produtividade no dia a dia
